@@ -3,10 +3,10 @@ Pandas is a powerful and popular Python library used for data manipulation and a
 
 # Uses of Pandas:
 
-Data Cleaning and Preprocessing:
-Data Transformation
-Data Analysis
-Descriptive Statistics
+- Data Cleaning and Preprocessing
+- Data Transformation
+- Data Analysis
+- Descriptive Statistics
 Data Visualization
 Time Series Analysis
 Merging and Joining Datasets
