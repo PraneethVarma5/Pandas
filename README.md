@@ -7,16 +7,16 @@ Pandas is a powerful and popular Python library used for data manipulation and a
 - Data Transformation
 - Data Analysis
 - Descriptive Statistics
-Data Visualization
-Time Series Analysis
-Merging and Joining Datasets
+- Data Visualization
+- Time Series Analysis
+- Merging and Joining Datasets
 
 # Importance of Pandas:
-Ease of Use
-Performance
-Flexibility
-Integration
-Regular updates and improvements with contributions from data scientists
+- Ease of Use
+- Performance
+- Flexibility
+- Integration
+- Regular updates and improvements with contributions from data scientists
 
 These are some Pandas important concepts covered with the mentioned datasets which are in forms like
 CSV(Comma Seperated Value),Excel(xlsx) etc.
